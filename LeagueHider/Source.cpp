@@ -15,7 +15,7 @@
 	std::cout << "Class name: " << class_name << std::endl << std::endl;
 	return TRUE;
 }*/
-
+//test
 IAudioEndpointVolume* GetEndpointVolume() {
 	HRESULT hr;
 	IMMDeviceEnumerator* deviceEnumerator = NULL;
